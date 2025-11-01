@@ -1,0 +1,32 @@
+2025-11-01 17:42:06,236 [INFO] Wrote 100 rows to data/posts.csv
+2025-11-01 17:45:52,381 [WARNING] HTTP 404 from https://jsonplaceholder.typicode.com/404
+2025-11-01 17:45:53,456 [WARNING] HTTP 404 from https://jsonplaceholder.typicode.com/404
+2025-11-01 17:45:55,528 [WARNING] HTTP 404 from https://jsonplaceholder.typicode.com/404
+2025-11-01 17:45:55,529 [ERROR] ERROR: Failed to fetch https://jsonplaceholder.typicode.com/404 after 3 attempts.
+2025-11-01 17:45:55,695 [WARNING] HTTP 404 from https://jsonplaceholder.typicode.com/404
+2025-11-01 17:45:55,696 [ERROR] ERROR: Failed to fetch https://jsonplaceholder.typicode.com/404 after 1 attempts.
+Wrote 100 rows to data/posts.csv
+HTTP 404 from https://jsonplaceholder.typicode.com/404
+ERROR: Failed to fetch https://jsonplaceholder.typicode.com/404 after 1 attempts.
+HTTP 404 from https://jsonplaceholder.typicode.com/404
+ERROR: Failed to fetch https://jsonplaceholder.typicode.com/404 after 1 attempts.
+Wrote 100 rows to data/posts.csv
+Wrote 100 rows to data/posts.csv
+Wrote 100 rows to data/posts.csv
+Wrote 100 rows to data/posts.csv
+Wrote 100 rows to data/posts.csv
+HTTP 404 from https://jsonplaceholder.typicode.com/404
+ERROR: Failed to fetch https://jsonplaceholder.typicode.com/404 after 1 attempts.
+HTTP 404 from https://jsonplaceholder.typicode.com/404
+ERROR: Failed to fetch https://jsonplaceholder.typicode.com/404 after 1 attempts.
+HTTP 404 from https://jsonplaceholder.typicode.com/404
+ERROR: Failed to fetch https://jsonplaceholder.typicode.com/404 after 1 attempts.
+Wrote 100 rows to data/posts.csv
+HTTP 404 from https://jsonplaceholder.typicode.com/404
+ERROR: Failed to fetch https://jsonplaceholder.typicode.com/404 after 1 attempts.
+Wrote 100 rows to data/posts.csv
+HTTP 404 from https://jsonplaceholder.typicode.com/404
+ERROR: Failed to fetch https://jsonplaceholder.typicode.com/404 after 1 attempts.
+Wrote 100 rows to data/posts.csv
+HTTP 404 from https://jsonplaceholder.typicode.com/404
+ERROR: Failed to fetch https://jsonplaceholder.typicode.com/404 after 1 attempts.
